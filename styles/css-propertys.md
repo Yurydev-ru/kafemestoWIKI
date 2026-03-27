@@ -1,7 +1,4 @@
-# CSS Properties
-
-## **CSS Custom Properties**
-> также известные как **CSS-переменные**) — это встроенная функция браузера, позволяющая определять многократно используемые значения непосредственно в CSS. Они были введены примерно в 2016–2017 годах и к 2025–2026 годам стали **стандартом** практически для всех серьезных систем стилизации — особенно в системах дизайна, тем оформления и динамических пользовательских интерфейсах.
+**CSS Custom Properties** (also commonly called **CSS Variables**) are a native browser feature that lets you define reusable values directly in CSS. They were introduced around 2016–2017 and by 2025–2026 have become the **standard** for almost every serious styling system — especially in design systems, theming, and dynamic UIs.
 
 They are declared using the `--` prefix and accessed with the `var()` function.
 
@@ -173,3 +170,5 @@ button {
 ```
 
 This gives you the best of both worlds in 2026.
+
+
